@@ -1,8 +1,6 @@
-import Authetication from "./connect-access/pages/authetication/Authetication";
-
 function App() {
   return (
-    <Authetication />
+    <div>InterView-Connect</div>
   );
 }
 

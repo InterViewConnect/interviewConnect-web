@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@base/*": ["src/connect-base/*"],
+            "@component/*": ["src/connect-component/*"],
+            "@business/*": ["src/connect-business/*"],
+            "@widget/*": ["src/connect-widget/*"],
+            "@styles/*": ["src/connect-styles/*"]
+        }
+    }
+}
